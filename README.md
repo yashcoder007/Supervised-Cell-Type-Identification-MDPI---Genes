@@ -16,7 +16,7 @@ Before applying machine learning techniques, the primary step is to preprocess t
 
 **Pipeline of the proposed framework**
 
-<img src="Pipeline.png">
+<img src="Single-Cell Sequencing.png">
 
 **Pre-processing step**
 
