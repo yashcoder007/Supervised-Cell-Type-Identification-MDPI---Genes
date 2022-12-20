@@ -1,6 +1,4 @@
-# Cell Type Annotation Model Selection: General-purpose vs
-Pattern-aware Feature Gene Selection in Single-cell RNA-seq
-Data
+# Cell Type Annotation Model Selection: General-purpose vs Pattern-aware Feature Gene Selection in Single-cell RNA-seq Data
 
 **Introduction**
 This work compares and evaluates the performance of two best practices in cell type 9
